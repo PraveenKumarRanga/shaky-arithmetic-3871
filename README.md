@@ -3,7 +3,7 @@
 Introduction : This is product based project, this beakend project for e-commerce site. This can done add product by admin and vendor functionality.
 
 Administration:
-This is will perform the admin functoinality below.
+This is will perform the admin functoinality below. Thew login and password are hardcoded.
 - Add product
 - Update product
 - View customer
